@@ -1,6 +1,6 @@
 <h1 align="center">An Attendance Management</h1>
 
-<p> This project was done for Second year First semester Object Oriented Prgramming module. I drew usecase diagram and activity diagram for
+<p> This project was done for Second year First semester Object Oriented Programming module. I drew usecase diagram and activity diagram for
   this function. We developed this system using the following tools & technologies.</p>
   
 <h3>Technologies used</h3>
